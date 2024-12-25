@@ -13,9 +13,8 @@ This repository contains a fun Turtle Crossing game created as part of the **100
    ```bash
    git clone https://github.com/yourusername/turtle-crossing-game.git
 2. Navigate to the project directory:
-  ```bash
-  cd turtle-crossing-game
-  ```
+     ```bash
+     cd turtle-crossing-game
 3. Run the game script:
     ```bash
     python main.py
